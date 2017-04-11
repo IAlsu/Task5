@@ -1,0 +1,98 @@
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\csc.exe
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\System.Collections.Immutable.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\System.Reflection.Metadata.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\vbc.exe
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\VBCSCompiler.exe
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\roslyn\VBCSCompiler.exe.config
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\Rewarding.dll.config
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\Rewarding.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\Rewarding.pdb
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\EntityFramework.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\EntityFramework.SqlServer.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\Microsoft.Web.Infrastructure.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Helpers.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Mvc.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Razor.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Webpages.Deployment.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Webpages.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Webpages.Razor.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\EntityFramework.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\EntityFramework.SqlServer.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Razor.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Webpages.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Webpages.Deployment.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Webpages.Razor.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Helpers.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Mvc.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\obj\Debug\Rewarding.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\obj\Debug\Rewarding.pdb
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\Newtonsoft.Json.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Net.Http.Formatting.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Http.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Http.WebHost.dll
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\Newtonsoft.Json.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Net.Http.Formatting.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Http.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\bin\System.Web.Http.WebHost.xml
+D:\MENTORING\MVC_tasks\Rewarding\Rewarding\obj\Debug\Rewarding.csprojResolveAssemblyReference.cache
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\csc.exe
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\System.Collections.Immutable.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\System.Reflection.Metadata.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\vbc.exe
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\VBCSCompiler.exe
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\roslyn\VBCSCompiler.exe.config
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\Rewarding.dll.config
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\Rewarding.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\Rewarding.pdb
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\EntityFramework.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\EntityFramework.SqlServer.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\Microsoft.Web.Infrastructure.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\Newtonsoft.Json.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Net.Http.Formatting.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Helpers.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Http.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Http.WebHost.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Mvc.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Razor.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Webpages.Deployment.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Webpages.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Webpages.Razor.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\EntityFramework.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\EntityFramework.SqlServer.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\Newtonsoft.Json.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Net.Http.Formatting.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Http.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Http.WebHost.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Razor.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Webpages.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Webpages.Deployment.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Webpages.Razor.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Helpers.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\bin\System.Web.Mvc.xml
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.dll
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.pdb
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.Migrations.FirstMigration.resources
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.csproj.GenerateResource.Cache
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.Migrations.PicturePathToBytes.resources
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.Migrations.Files.resources
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.Migrations.updatedatabase.resources
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.csprojResolveAssemblyReference.cache
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.Migrations.just.resources
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.Migrations.rewardsindex.resources
+D:\MENTORING\MVC_tasks\DONE\Task 5\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.Migrations.rewardsvoews.resources
